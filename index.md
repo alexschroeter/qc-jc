@@ -8,4 +8,4 @@ The Quantum Computing Journal Club meets currently **Wednesdays** from **13:30**
 
 ## Contact
 
-You can contact us via qc-jc@fias.uni-frankfurt.de
+You can contact us via qc-jc@lists.fias.science
