@@ -1,6 +1,6 @@
 # Welcome to the Quantum Computing Journal Club at FIAS (Goethe University Frankfurt)
 
-If you are interested in quantum computing and want to discuss the advancments, challenges and applications feel free to join us. 
+If you are interested in quantum computing and want to discuss the advancements, challenges and applications feel free to join us. 
 
 ## Meetings
 
